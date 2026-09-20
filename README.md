@@ -1,97 +1,143 @@
 # 👋 Hi, I'm Arjun Kumar R
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Enthusiast+%7C+Backend+Developer;B.E.+Electrical+%26+Electronics+Engineering;Building+Web+Projects+%26+Learning+Every+Day" />
+</p>
 
-### 💻 Frontend Enthusiast | ⚙️ Backend Developer | ⚡ EEE Student
-
-**B.E. Electrical and Electronics Engineering**  
-**K.S.R. College of Engineering | 3rd Year | 5th Semester**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Arjunkumar12EEE-181717?style=for-the-badge&logo=github)](https://github.com/Arjunkumar12EEE)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Arjunkumar12EEE">
+    <img src="https://img.shields.io/badge/GitHub-Arjunkumar12EEE-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 I'm a **3rd-year B.E. Electrical and Electronics Engineering student** at **K.S.R. College of Engineering**.
+🎓 I'm a **3rd-year B.E. Electrical and Electronics Engineering student** at  
+**K.S.R. College of Engineering**.
 
-🌐 Although my academic background is Electrical Engineering, I'm highly interested in **Web Development**, especially **Frontend Development**.
+💻 Although my academic background is **Electrical Engineering**, I have a strong interest in **Web Development**, especially **Frontend Development**.
 
 ⚙️ Currently, I'm working as a **Backend Developer** on collaborative software projects and learning how modern web applications work behind the scenes.
 
-🚀 I enjoy building real-world projects, learning new technologies, solving problems, and improving my development skills.
+🚀 I enjoy building projects, learning new technologies, solving problems, and improving my development skills.
+
+📚 I'm continuously learning and exploring both **Frontend and Backend Development**.
 
 ---
 
 ## 🎓 Education
 
-### 🏫 K.S.R. College of Engineering
-
-- 🎓 **Degree:** B.E. Electrical and Electronics Engineering
-- 📚 **Year:** 3rd Year
-- 📖 **Semester:** 5th Semester
+**B.E. Electrical and Electronics Engineering (EEE)**  
+🏫 K.S.R. College of Engineering  
+📅 3rd Year | 5th Semester
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 💻 Programming Languages
+### 🌐 Frontend
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### 🎨 Frontend Development
+### ⚙️ Backend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### ⚙️ Backend Development
+### 🗄️ Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-### 🔧 Tools
+### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-# 🚀 Current Project
+## 🚀 Currently Working On
 
-## 📄 INFOTACT – SyncDoc
+### 🔹 Collaborative Document Editing Project
 
-**Collaborative Document Editing Platform**
+I'm currently contributing as a **Backend Developer** to a collaborative document editing project.
 
-I'm currently working as a **Backend Developer** on a collaborative document editing project.
+### My backend work includes:
 
-The project focuses on allowing multiple users to work on documents while maintaining document structure and handling real-time changes.
+- 🔄 Text to AST conversion
+- 🌳 Document structure handling
+- 🆔 Paragraph identification
+- ⚡ Real-time document changes
+- 🔀 Conflict resolution concepts
+- 🔌 Backend API development
+- 🗄️ Database integration
 
-### 🔨 My Backend Work
+I'm also learning how multiple users can work on the same document while maintaining document consistency.
+
+---
+
+## 📌 Projects
+
+### 🏋️ FitVision
+
+**AI Powered Fitness Website**
+
+A web project focused on fitness and user interaction.
+
+**Technologies:**
+`HTML` `CSS`
+
+---
+
+### 📄 Collaborative Document Editor
+
+A collaborative document editing system designed to allow multiple users to work on documents while maintaining document structure and handling real-time changes.
+
+**My Role:** Backend Developer
+
+**Technologies:**
+`Node.js` `Express.js` `MongoDB` `JavaScript`
+
+---
+
+### 🌐 Personal Portfolio
+
+A personal portfolio website showcasing my projects, skills and development journey.
+
+**Technologies:**
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 🌱 Currently Learning
+
+- 🌐 Advanced Frontend Development
+- ⚙️ Backend Development
+- 🔌 REST APIs
+- 🗄️ MongoDB
+- 🔄 Real-time Applications
+- 🌳 AST / Document Structures
+- 🔀 Conflict Resolution
+- 🚀 Full Stack Development
+
+---
+
+## 🎯 My Goals
 
 ```text
-User Text
-    │
-    ▼
-Text → AST Conversion
-    │
-    ▼
-Document Structure
-    │
-    ▼
-Paragraph Identification
-    │
-    ▼
-Real-Time Changes
-    │
-    ▼
-Conflict Resolution
+Frontend Development
+        ↓
+Backend Development
+        ↓
+Full Stack Development
+        ↓
+Build Real-World Projects
+        ↓
+Become a Professional Software Developer
